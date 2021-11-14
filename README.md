@@ -8,7 +8,7 @@ Click [here](https://github.com/Fredericxu/stock-analysis) for pictures VBA_Chal
 As to be shown in the picture, most stocks have better performance in year 2017 than in 2018. TERP is the only stock with negative return in year 2017. ENPH and RUN are the only 2 positive return stocks in year 2018. 
 ### execution times of the scripts
 Click [here](https://github.com/Fredericxu/stock-analysis/tree/main/Resources) to reach the pictures for execution time of original scripts.
-The original scripts with execution times for 2.5-5 seconds and the refactored scripts are much faster with the execution time about 0.1 second.
+The original scripts with execution times for 2.5-5 seconds and the refactored scripts are much faster with the execution time to be set to about 0.1 second.
 ## Summary: In a summary statement, address the following questions.
 ### What are the advantages or disadvantages of refactoring code?
 Refactoring code has advantage for execution time to be much less than the original code as well as the number of loops was reduced from 2 to 1. 
