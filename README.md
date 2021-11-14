@@ -7,6 +7,7 @@ The purpose of this analysis is to analyze the price change and accumulative vol
 Click [here](https://github.com/Fredericxu/stock-analysis) for pictures VBA_Challenge_2017 and VBA_Challenge_2018.
 As to be shown in the picture, most stocks have better performance in year 2017 than in 2018. TERP is the only stock with negative return in year 2017. ENPH and RUN are the only 2 positive return stocks in year 2018. 
 ### execution times of the scripts
+Click [here](https://github.com/Fredericxu/stock-analysis/tree/main/Resources) to reach the pictures for execution time of original scripts.
 The original scripts with execution times for 2.5-5 seconds and the refactored scripts are much faster with the execution time about 0.1 second.
 ## Summary: In a summary statement, address the following questions.
 ### What are the advantages or disadvantages of refactoring code?
